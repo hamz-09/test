@@ -1,2 +1,4 @@
 *.mp4
 Assets/videos/
+application/cache/
+application/logs/
